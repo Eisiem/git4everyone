@@ -2,7 +2,7 @@
 
 Setup the environment and run the user interface without any functionality.
 
-- [ ] Choose license
+- [x] Choose license
 - [ ] Choose libraries
 - [ ] Set IDE to work
 - [ ] Redo .gitignore
@@ -10,7 +10,7 @@ Setup the environment and run the user interface without any functionality.
 - [ ] Start CHANGELOG
 - [ ] Write INSTALL
 - [ ] Write FAQ
-- [ ] Write CONTRIBUTE
+- [x] Write CONTRIBUTE
 - [ ] Write NEWS
 
 # Beta
@@ -34,7 +34,7 @@ Git tools that involve **creating projects** and **basic snapshotting** are usab
   - [ ] rm
   - [ ] rv
 
-# 1.0
+# Launch
 
 All git tools are usable, and there is extra functionality.
 

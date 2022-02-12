@@ -1,0 +1,22 @@
+Here is a map of the project filetree, and a description of each file and folder.
+
+- ***[README.md](../README.md)*** - An introduction to the project.
+- [***.gitignore***](../.gitignore) - Special git file to specify which files and folders must be ignored when updating a project.
+- [***LICENSE.md***](../LICENSE.md) - File that specify source code’s terms of use.
+- ***src/*** - Contains the main source code files.
+  - ***[main.py](./main.py)*** - Main source code file. The whole program starts running this file.
+  - ***modules/*** - Folder where *python modules* are stored.
+- ***tests/*** - Contains small programs to test the source code.
+- ***docs/*** - Contains documentation files.
+  - ***[INSTALL.md](./INSTALL.md)*** - Instructions to install this program from source.
+  - ***[FAQ.md](./FAQ.md)*** - Frequetly asked questions.
+  - ***[CONTRIBUTE.md](./CONTRIBUTE.md)*** - On this file there is all the information you need to contribute to the project.
+  - [***ROADMAP.md***](./ROADMAP.md) - Roadmap of the project. What we’ve done and what we’ll do next.
+  - ***[NEWS.md](./NEWS.md)*** - Announcements about the project that might interest users.
+  - ***[CHANGELOG.md](./CHANGELOG.md)*** - Detailed chronology of changes that the project has suffered until this date.
+  - ***PROJECT_FILETREE.md*** - (This file)
+  - ***[code_of_conduct.md](./code_of_conduct.md)*** - Describes our code of conduct, used at every interaction related to this project.
+  - **[pull_request_template.md](./pull_request_template.md)** - Template to fulfill when doing *pull requests*.
+  - **[issue_template.md](./issue_template.md)** - Template to fulfill when reporting a bug or enhancement.
+- ***ide/*** - Contains IDE specific files
+- ***media/*** - Contains media files that are used in documentation and other files
