@@ -1,0 +1,3 @@
+FROM python:3.8-alpine
+# RUN pip install --no-cache-dir lib1 lib2 lib3...
+RUN echo "Image build OK"
